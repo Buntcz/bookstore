@@ -9,3 +9,5 @@ environs[django]==10.0.0
 marshmallow >= 3.13.0, < 3.19.0
 pillow==9.0.1
 django-debug-toolbar==6.0.0
+whitenoise==6.9.0
+gunicorn==23.0.0
